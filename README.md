@@ -11,7 +11,6 @@
 - 🧪 Mini projets Python / Bash liés à la sécurité  
 
 📬 **Contact** : WAIT...
-<hr style="border: none; border-top: 1px solid #444; margin: 10px 0;" />
 
 ## 🔥 Languages and Tools 🔥
 
