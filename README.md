@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Gukka
 
-🎓 Étudiant en Master 2 Cybersécurité à Paris 
-🔥 Passionné de cybersécurité offensive, autodidacte et curieux — je passe mon temps libre sur TryHackMe et des projets persos
+🎓 Étudiant en Master 2 Cybersécurité à Paris\
+🔥 Passionné de cybersécurité offensive, autodidacte et curieux — je passe mon temps libre sur TryHackMe et des projets persos\
 🧠 Objectif : Travailler dans la cybersécurité
 
 
