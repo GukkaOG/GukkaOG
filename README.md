@@ -14,6 +14,8 @@
 
 📬 **Contact** : WAIT...
 
+<hr style="height:1px; border:none; background-color:#333; margin:20px 0;" />
+
 <table>
   <tr>
     <th>Programming Languages</th>
