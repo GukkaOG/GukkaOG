@@ -13,8 +13,8 @@
 ---
 
 📬 **Contact** : WAIT...
+<hr style="border: none; border-top: 1px solid #444; margin: 10px 0;" />
 
-<hr style="height:1px; border:none; background-color:#333; margin:20px 0;" />
 
 <table>
   <tr>
