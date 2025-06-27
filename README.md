@@ -8,9 +8,7 @@
 - 📁 **Write-ups** de machines TryHackMe / HackTheBox
 - 🛠️ **Scripts perso** (reconnaissance, automation, reverse shell listener…)
 - 📚 **Cheatsheets & méthodologies** d'attaque (Linux, Windows, Web, Post-Exploitation…)
-- 🧪 Mini projets Python / Bash liés à la sécurité
-
----
+- 🧪 Mini projets Python / Bash liés à la sécurité  
 
 📬 **Contact** : WAIT...
 <hr style="border: none; border-top: 1px solid #444; margin: 10px 0;" />
