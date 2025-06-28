@@ -25,24 +25,25 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/54208124?s=200&v=4" alt="TryHackMe" width="40" title="TryHackMe" />
-      <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" title="Kali Linux" />
-      <img src="https://seeklogo.com/images/O/osint-logo-1B86ECB7E0-seeklogo.com.png" alt="OSINT" width="40" title="OSINT" />
-      <img src="https://gblobscdn.gitbook.com/spaces%2F-LJ1PcM43KDhS3RDQxOr%2Favatar.png?alt=media&token=7cfbd378-13f3-4be7-acc4-02dc22c1443e" alt="Mosint" width="40" title="Mosint" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Shodan_icon_logo.svg" alt="Shodan" width="40" title="Shodan" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Shodan_icon_logo.svg" width="40" title="Shodan" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
     </td>
     <td align="center">
-      <img src="https://www.python.org/static/apple-touch-icon-144x144.png" alt="Python" width="40" title="Python" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" title="JavaScript" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" title="Bash" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Tkinter_logo.svg" alt="Tkinter" width="40" title="Tkinter" />
-      <img src="https://iotdk.intel.com/ggf/accurate_sources/2020-04-02_15_05_27_2888_CustomTkinter_Logo.png" alt="CustomTkinter" width="40" title="CustomTkinter" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" title="PHP" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
     </td>
     <td align="center">
-      <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" title="Docker" />
-      <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Server" width="40" title="Ubuntu Server" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Active_Directory_Icon.svg" alt="Active Directory" width="40" title="Active Directory" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_Server_2022_logo_%282011-2014%29.svg" alt="Windows Server" width="40" title="Windows Server" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" title="Nginx" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" title="Windows Server" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40" title="PowerShell" />
     </td>
   </tr>
   <tr>
@@ -52,28 +53,22 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" title="Photoshop" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" title="Illustrator" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="40" title="After Effects" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere Pro" width="40" title="Premiere Pro" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" title="Photoshop" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" title="Illustrator" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Adobe_After_Effects_CC_icon.svg" width="40" title="After Effects" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Adobe_Premiere_Pro_CC_icon.svg" width="40" title="Premiere Pro" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wix_Logo.svg" alt="Wix" width="40" title="Wix" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40" title="WordPress" />
-      <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" title="Shopify" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Ionos_logo3.svg" alt="IONOS" width="40" title="IONOS" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Sendesign_by_brevo_logo.svg" alt="Brevo" width="40" title="Brevo" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" title="WordPress" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wix_Logo.svg" width="40" title="Wix" />
+      <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="40" title="Shopify" />
+      <img src="https://www.ionos.fr/favicon.ico" width="30" title="IONOS" />
+      <img src="https://cdn.worldvectorlogo.com/logos/sendinblue.svg" width="40" title="Brevo (ex-Sendinblue)" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Windows_logo_-_2012.svg" alt="Windows 10" width="40" title="Windows 10" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/PowerShell_Chrome_Icon.svg" alt="PowerShell" width="40" title="PowerShell" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" title="Git" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" title="GitHub" />
-    </td>
-  </tr>
-</table>
-
-
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/wind
 
 <!---
 ## 🔥 Languages and Tools 🔥
