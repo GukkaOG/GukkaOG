@@ -17,6 +17,8 @@
 🧪 Mini projets Python / Bash liés à la sécurité  
 
 📬 Contact : WAIT...
+
+---
   
 <br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243004781281411072)
