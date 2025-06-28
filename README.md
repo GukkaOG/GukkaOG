@@ -17,6 +17,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tonpseudo)
 <!---[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)--->
 
+<!---
 <table>
   <tr>
     <th>💻 Pentest / OSINT</th>
@@ -72,6 +73,8 @@
     </td>
   </tr>
 </table>
+--->
+
 
 
 <!---
