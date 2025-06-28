@@ -25,53 +25,54 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux (Kali)-557C94?style=for-the-badge&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/OSINT-444444?style=for-the-badge&logo=target&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mosint-5A5A5A?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Shodan-EF3F37?style=for-the-badge&logo=shodan&logoColor=white" />
+      <img src="https://avatars.githubusercontent.com/u/54208124?s=200&v=4" alt="TryHackMe" width="40" title="TryHackMe" />
+      <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40" title="Kali Linux" />
+      <img src="https://seeklogo.com/images/O/osint-logo-1B86ECB7E0-seeklogo.com.png" alt="OSINT" width="40" title="OSINT" />
+      <img src="https://gblobscdn.gitbook.com/spaces%2F-LJ1PcM43KDhS3RDQxOr%2Favatar.png?alt=media&token=7cfbd378-13f3-4be7-acc4-02dc22c1443e" alt="Mosint" width="40" title="Mosint" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Shodan_icon_logo.svg" alt="Shodan" width="40" title="Shodan" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tkinter-5A5A5A?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/CustomTkinter-101010?style=for-the-badge" />
+      <img src="https://www.python.org/static/apple-touch-icon-144x144.png" alt="Python" width="40" title="Python" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" title="JavaScript" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" title="Bash" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Tkinter_logo.svg" alt="Tkinter" width="40" title="Tkinter" />
+      <img src="https://iotdk.intel.com/ggf/accurate_sources/2020-04-02_15_05_27_2888_CustomTkinter_Logo.png" alt="CustomTkinter" width="40" title="CustomTkinter" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ubuntu Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Active Directory-003366?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Windows Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" title="Docker" />
+      <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Server" width="40" title="Ubuntu Server" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Active_Directory_Icon.svg" alt="Active Directory" width="40" title="Active Directory" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Windows_Server_2022_logo_%282011-2014%29.svg" alt="Windows Server" width="40" title="Windows Server" />
     </td>
   </tr>
   <tr>
     <th>🎨 Création / Visuels</th>
-    <th>🛒 E-commerce</th>
+    <th>🛒 E‑commerce / Web</th>
     <th>🧠 Système & Utilitaires</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-      <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-      <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" title="Photoshop" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" title="Illustrator" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Adobe_After_Effects_CC_icon.svg" alt="After Effects" width="40" title="After Effects" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere Pro" width="40" title="Premiere Pro" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
-      <img src="https://img.shields.io/badge/IONOS-003B9F?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Brevo-0466C8?style=for-the-badge" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wix_Logo.svg" alt="Wix" width="40" title="Wix" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" width="40" title="WordPress" />
+      <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" title="Shopify" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Ionos_logo3.svg" alt="IONOS" width="40" title="IONOS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Sendesign_by_brevo_logo.svg" alt="Brevo" width="40" title="Brevo" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-FF5733?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Windows_logo_-_2012.svg" alt="Windows 10" width="40" title="Windows 10" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/PowerShell_Chrome_Icon.svg" alt="PowerShell" width="40" title="PowerShell" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="40" title="Git" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" title="GitHub" />
     </td>
   </tr>
 </table>
+
 
 
 <!---
