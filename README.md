@@ -9,20 +9,21 @@
 🔥 Passionné par la cybersécurité sous toutes ses formes : offensive, défensive, gouvernance, et OSINT  
 🧠 Je consacre mon temps libre à TryHackMe, des projets pratiques et à l’apprentissage continu
 
-## 🔍 Ce que tu trouveras ici
+---
 
-📁 Write-ups de machines TryHackMe / HackTheBox  
-🛠️ Scripts perso (reconnaissance, automation, reverse shell listener…)  
-📚 Cheatsheets & méthodologies d'attaque (Linux, Windows, Web, Post-Exploitation…)  
-🧪 Mini projets Python / Bash liés à la sécurité  
+### 🔍 Ce que tu trouveras ici
 
-📬 Contact : WAIT
+- 📁 Write-ups de machines TryHackMe / HackTheBox  
+- 🛠️ Scripts perso (reconnaissance, automation, reverse shell listener…)  
+- 📚 Cheatsheets & méthodologies d'attaque (Linux, Windows, Web, Post-Exploitation…)  
+- 🧪 Mini projets Python / Bash liés à la sécurité  
 
 ---
-  
-<br>
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243004781281411072)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gukka/)
+
+### 📬 Me contacter
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243004781281411072)  
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gukka/)  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tonpseudo)
 <!---[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@email.com)--->
 
