@@ -16,7 +16,7 @@
 📚 Cheatsheets & méthodologies d'attaque (Linux, Windows, Web, Post-Exploitation…)  
 🧪 Mini projets Python / Bash liés à la sécurité  
 
-📬 Contact : WAIT...
+📬 Contact : WAIT
 
 ---
   
