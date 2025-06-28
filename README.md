@@ -9,7 +9,6 @@
 🔥 Passionné par la cybersécurité sous toutes ses formes : offensive, défensive, gouvernance, et OSINT  
 🧠 Je consacre mon temps libre à TryHackMe, des projets pratiques et à l’apprentissage continu
 
----
 
 ### 🔍 Ce que tu trouveras ici
 
@@ -18,7 +17,6 @@
 - 📚 Cheatsheets & méthodologies d'attaque (Linux, Windows, Web, Post-Exploitation…)  
 - 🧪 Mini projets Python / Bash liés à la sécurité  
 
----
 
 ### 📬 Me contacter
 
