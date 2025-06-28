@@ -28,7 +28,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Shodan_icon_logo.svg" width="40" title="Shodan" />
+      <img src="https://shodan.io/favicon.ico" width="40" title="Shodan" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
     </td>
     <td align="center">
@@ -55,12 +55,12 @@
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" title="Photoshop" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" title="Illustrator" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Adobe_After_Effects_CC_icon.svg" width="40" title="After Effects" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" title="After Effects" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Premiere_Pro_CC_icon_%282020%29.svg" width="40" title="Premiere Pro" />
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" title="WordPress" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wix_Logo.svg" width="40" title="Wix" />
+      <img src="https://static.wixstatic.com/media/c3b812_4d514272cf0c4d3da4643c09a4b42766~mv2.png/v1/fill/w_256,h_256,al_c,q_85,enc_auto/Wix%20Icon%20-%20Website%20Builder.png" width="40" title="Wix" />
       <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="40" title="Shopify" />
       <img src="https://www.ionos.fr/favicon.ico" width="30" title="IONOS" />
       <img src="https://cdn.worldvectorlogo.com/logos/sendinblue.svg" width="40" title="Brevo / Sendinblue" />
@@ -72,6 +72,7 @@
     </td>
   </tr>
 </table>
+
 
 <!---
 ## 🔥 Languages and Tools 🔥
