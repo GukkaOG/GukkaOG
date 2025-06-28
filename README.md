@@ -1,16 +1,23 @@
 # 👋 Salut, moi c’est Gukka
 
-🎓 Étudiant en Master 2 Cybersécurité à Paris\
-🔥 Passionné de cybersécurité offensive, autodidacte et curieux — je passe mon temps libre sur TryHackMe et des projets persos\
-🧠 Objectif : Travailler dans la cybersécurité
+🎓 Étudiant en Master 2 Cybersécurité à Paris  
+🎓 Diplômé d’un Baccalauréat Scientifique  
+🎓 Titulaire d’un Bachelor en Chef de Projet Digital & d’un Bachelor en Cybersécurité  
 
+💡 Mon parcours me permet d’allier expertise technique en cybersécurité et compréhension stratégique des enjeux digitaux  
 
-- 📁 **Write-ups** de machines TryHackMe / HackTheBox
-- 🛠️ **Scripts perso** (reconnaissance, automation, reverse shell listener…)
-- 📚 **Cheatsheets & méthodologies** d'attaque (Linux, Windows, Web, Post-Exploitation…)
-- 🧪 Mini projets Python / Bash liés à la sécurité  
+🔥 Passionné par la cybersécurité sous toutes ses formes : offensive, défensive, gouvernance, et OSINT  
+🧠 Je consacre mon temps libre à TryHackMe, des projets pratiques et à l’apprentissage continu
 
-📬 **Contact** : WAIT...  
+## 🔍 Ce que tu trouveras ici
+
+📁 Write-ups de machines TryHackMe / HackTheBox  
+🛠️ Scripts perso (reconnaissance, automation, reverse shell listener…)  
+📚 Cheatsheets & méthodologies d'attaque (Linux, Windows, Web, Post-Exploitation…)  
+🧪 Mini projets Python / Bash liés à la sécurité  
+
+📬 Contact : WAIT...
+  
 <br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243004781281411072)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/gukka/)
